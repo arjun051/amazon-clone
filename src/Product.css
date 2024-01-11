@@ -1,0 +1,21 @@
+.items{
+display: flex;
+flex-flow:column;
+height: 100%;
+/* align-items: center; */
+box-sizing: border-box;
+margin: 20px;
+transition: 0.2s;
+flex-basis: 22%;
+background: white ;
+padding: 10px 10px;
+}
+.product-rating{
+    display: flex;
+}
+
+.product-img{
+    min-width: 50px;
+    max-height: 300px;     
+
+}

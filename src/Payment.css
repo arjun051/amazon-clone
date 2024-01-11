@@ -1,0 +1,20 @@
+.payment-container{
+    margin: 40px;
+}
+.payment-container h1{
+    text-align: center;
+}
+.pay-row{
+    display: flex;
+    margin: 20px 0px;
+    border-bottom: 1px solid lightgray;
+    padding: 10px;
+
+}
+.rev-title , .ad-title ,.pay-c1{
+    flex: 0.2;
+}
+
+.rev-info , .ad-info , .pay-details {
+    flex: 0.8
+}
